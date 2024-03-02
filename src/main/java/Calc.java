@@ -4,7 +4,7 @@ public class Calc {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("this is webhook check!");
+    
         System.out.println("Welcome to Calculator!");
         System.out.println("Enter the first number:");
         double num1 = scanner.nextDouble();
