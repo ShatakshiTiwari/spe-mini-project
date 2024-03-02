@@ -1,1 +1,1 @@
-This is SPE mini project titled :"Scientific Calculator using DevOps"
+This is SPE mini project titled :"Scientific Calculator  DevOps"
